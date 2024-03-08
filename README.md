@@ -18,7 +18,7 @@ Clone the repo
 
 Run the script from the command line. You will be prompted to enter a name and a country ID (e.g., 'US' for United States):
 
-python guess_nationality.py
+`python guess_nationality.py`
 
 Follow the prompts to input the name and country ID.
 
