@@ -16,9 +16,11 @@ Clone the repo
 
 ## Usage
 
-Run the script from the command line. You will be prompted to enter a name and a country ID (e.g., 'TR' for Turkey):
+Run the script from the command line. You will be prompted to enter a name and a country ID (e.g., 'US' for United States):
 
-pip install -r requirements.txt
+python guess_nationality.py
+
+Follow the prompts to input the name and country ID.
 
 ## Authors
 
