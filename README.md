@@ -10,6 +10,8 @@ To get a local copy up and running follow these simple steps.
 
 This project requires Python and the `requests` library. You can install `requests` using pip:
 
+`pip install requests`
+
 #### Installation
 
 Clone the repo
