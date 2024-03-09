@@ -12,7 +12,10 @@ This project requires Python and the `requests` library. You can install `reques
 
 #### Installation
 
-Clone the repo
+1. Clone the repo
+`git clone https://github.com/eksen1907/guessNationality.git`
+2. Install Python packages
+`pip install -r requirements.txt`
 
 ## Usage
 
