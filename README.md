@@ -8,9 +8,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This project requires Python and the `requests` library. You can install `requests` using pip:
-
-`pip install requests`
+This project requires Python and the `requests` library
 
 #### Installation
 
