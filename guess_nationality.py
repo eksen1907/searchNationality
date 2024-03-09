@@ -3,7 +3,8 @@ import requests
 def get_name_country_probability(name, country_id):
     url = f"https://api.nationalize.io?name={name}"
     response = requests.get(url)
-    
+
+    # Check if the request is successful
     if response.status_code == 200:
         data = response.json()
         countries_data = data.get('country', [])
