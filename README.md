@@ -10,6 +10,8 @@ To get a local copy up and running follow these simple steps.
 
 This project requires Python and the `requests` library. You can install `requests` using pip:
 
+`pip install requests`
+
 #### Installation
 
 1. Clone the repo
@@ -19,9 +21,11 @@ This project requires Python and the `requests` library. You can install `reques
 
 ## Usage
 
-Run the script from the command line. You will be prompted to enter a name and a country ID (e.g., 'TR' for Turkey):
+Run the script from the command line. You will be prompted to enter a name and a country ID (e.g., 'US' for United States):
 
-pip install -r requirements.txt
+`python guess_nationality.py`
+
+Follow the prompts to input the name and country ID.
 
 ## Authors
 
