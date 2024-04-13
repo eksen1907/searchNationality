@@ -13,7 +13,7 @@ This project requires Python and the `requests` library
 #### Installation
 
 1. Clone the repo
-`git clone https://github.com/eksen1907/guessNationality.git`
+`git clone https://github.com/umutulay/guessNationality.git`
 2. Install Python packages
 `pip install -r requirements.txt`
 
@@ -27,4 +27,4 @@ Follow the prompts to input the name and country ID.
 
 ## Authors
 
-* Umut Tulay - [eksen1907](https://github.com/eksen1907) with ChatGPT
+* Umut Tulay - [umutulay](https://github.com/umutulay)
