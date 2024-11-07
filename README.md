@@ -1,4 +1,4 @@
-# guessNationality
+# guess-nationality
 
 This project uses the `nationalize.io` API to predict the nationality of a given name. Users can input a name and a country ID, and the program will respond with the probability that the name is from the specified country. If the specified country is not among the predicted nationalities, the program will list the probabilities for all nationalities that were found.
 
